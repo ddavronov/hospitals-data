@@ -18,56 +18,56 @@
   "hospitals": [
     {
       "postCode": 100022,
-      "name": "Local",
-      "type": "FAMILY POLYCLINIC #4",
+      "type": "Local",
+      "name": "FAMILY POLYCLINIC #4",
       "address": "KALANDAR avenue, 2"
     },
     {
       "postCode": 100022,
-      "name": "Dental",
-      "type": "Sadafkom",
+      "type": "Dental",
+      "name": "Sadafkom",
       "address": "st. Mustaqillik, 86A"
     },
     {
       "postCode": 100022,
-      "name": "Local",
-      "type": "FAMILY POLYCLINIC #8",
+      "type": "Local",
+      "name": "FAMILY POLYCLINIC #8",
       "address": " st. MINGBULOQ, 40"
     },
     {
       "postCode": 100022,
-      "name": "Cardiac",
-      "type": "UMC",
+      "type": "Cardiac",
+      "name": "UMC",
       "address": "st. Mustaqillik, 86A"
     },
     {
       "postCode": 100022,
-      "name": "Local",
-      "type": "CENTRAL MULTIDISCIPLINE POLYCLINIC AT RMO #8",
+      "type": "Local",
+      "name": "CENTRAL MULTIDISCIPLINE POLYCLINIC AT RMO #8",
       "address": " TTZ-2 avenue"
     },
     {
       "postCode": 100022,
-      "name": "Private",
-      "type": "1 MEDICAL AND LABOR EXPERT COMMISSION (VTEK)",
+      "type": "Private",
+      "name": "1 MEDICAL AND LABOR EXPERT COMMISSION (VTEK)",
       "address": " Qorasu-2 avenue, 40"
     },
     {
       "postCode": 100022,
-      "name": "Diagnostics",
-      "type": "Medical Center for Obstetrics and Gynecology",
+      "type": "Diagnostics",
+      "name": "Medical Center for Obstetrics and Gynecology",
       "address": "st. Feruza, 132a"
     },
     {
       "postCode": 100022,
-      "name": "Private",
-      "type": "MEDICANA MEDICAL CENTER",
+      "type": "Private",
+      "name": "MEDICANA MEDICAL CENTER",
       "address": "st. Akkurgan, 20A"
     },
     {
       "postCode": 100022,
-      "name": "Diagnostics",
-      "type": "IX MED CLINIC",
+      "type": "Diagnostics",
+      "name": "IX MED CLINIC",
       "address": "st. Ravnak, 41"
     }
   ]
